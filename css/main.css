@@ -1,0 +1,147 @@
+* {
+  font-family: 'Permanent Marker', cursive;
+}
+.navbar {
+  border-radius: 0;
+}
+.navbar-default {
+  background-color: #a3d2da;
+  border: none;
+}
+.navbar-brand {
+  padding-left: 350px;
+  font-weight: bold;
+}
+.nav.navbar-nav {
+  padding-left: 200px;
+  font-weight: bold;
+}
+.navbar {
+  margin: 0;
+}
+.jumbotron {
+  background-color: #a3d2da;
+}
+
+h1.htxt {
+  font-size: 35px;
+  text-align: center;
+  /*padding-left: 300px;
+  padding-top: 10px;*/
+}
+/*Styles images in carousel*/
+.item {
+  display: block;
+  margin: auto;
+  height: 250px;
+  width: 250px;
+}
+.col-sm-4 {
+  padding-left: 80px;
+}
+.expense {
+  height: 180px;
+  width: 230px;
+}
+.megatron {
+  background-color: #9CCFA2;
+}
+.sectext {
+  text-align: center;
+  padding-top: 20px;
+}
+.sectexts {
+  text-align: center;
+}
+.panel.panel-default {
+  background-color: #9CCFA2;
+  border: none;
+}
+.panel-body {
+  /*border: none;*/
+}
+.btns {
+  text-align: center
+}
+.bullshit {
+  background-color: #9CCFA2;
+  margin: 0;
+}
+.thumbnail {
+  height: 140px;
+  background-color: #9CCFA2;
+  border: none;
+}
+.brandz {
+  height: 100px;
+  width: 150px;
+}
+.clickme {
+  text-align: center;
+}
+/*Styles break in ysl section*/
+.headrest {
+  width: 65%;
+}
+.yslting {
+  position: absolute;
+  left: 650px;
+  top: 1950px;
+}
+.feels {
+  padding-left: 100px;
+}
+.gang {
+  text-align: center;
+}
+.mintro {
+  padding-top: 20px;
+}
+.sackground {
+  background-color: #DDB4C4;
+}
+.prof {
+  height: 300px;
+}
+.captionz {
+  text-align: center;
+}
+#my_centered_buttons {
+  display: flex; justify-content: center;
+}
+.ltext {
+  text-align: center;
+}
+.kixx {
+  text-align: center;
+  text-decoration: line-through;
+}
+.thumbnailk {
+  background-color: #a3d2da;
+  border: none;
+}
+.heaters {
+  background-color: #a3d2da;
+}
+.lutton {
+  text-align: center;
+}
+.lackgd {
+  background-color: #3C3C3C;
+}
+h1 {
+  margin-top: 0;
+}
+.hitus {
+  color: white;
+  text-align: center;
+}
+/*styles comment box on bottom*/
+.message {
+  text-align: center;
+  color: white;
+}
+.lsbut {
+  background-color: #3C3C3C;
+  border: none;
+}
